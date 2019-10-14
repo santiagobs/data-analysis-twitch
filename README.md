@@ -1,1 +1,1 @@
-# data-analysis-twitch
+# ipython-sql data-analysis
